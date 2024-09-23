@@ -1,0 +1,1 @@
+word_list = ["camel", "baboon", "baby", "galaxy", "weasel", "buffalo", "extensive"]

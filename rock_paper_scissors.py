@@ -35,7 +35,7 @@ print(f"Machine chose:")
 print(list1[machine_input])
 
 # >=3 might not work as we have given a lost above and
-# only 0,1,2, -1, -2, -3 are accepted
+# only 0,1,2,-1,-2,-3 are accepted
 if user_input >= 3 or user_input < 0:
     print("Invalid input!!")
 elif user_input == 0 and machine_input == 2:
